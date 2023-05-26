@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-blank-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
